@@ -56,6 +56,11 @@ To address this, we built a **deep learning solution** to classify defects autom
 Confusion matrix and classification report were generated for deeper evaluation.
 
 
+## Download Trained Model
+
+You can download the best trained model (`model_best.pth`) from [Best_Trained_Model](https://drive.google.com/file/d/1Ov9tpdU7q8PP6fTKrzbwiaRov0tdRtAh/view?usp=sharing).
+
+
 ## Features & Highlights
 
 - Developed an **automated fault detection system** to assist steel inspection engineers  
