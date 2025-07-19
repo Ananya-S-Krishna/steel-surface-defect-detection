@@ -1,5 +1,3 @@
-# steel-surface-defect-detection
-
 # Steel Surface Defect Detection using Deep Learning
 
 This project presents an **AI-powered visual inspection system** designed to detect **surface defects in hot-rolled steel strips**, combining **mechanical domain expertise** with **deep learning-based image classification**.
